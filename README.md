@@ -11,7 +11,15 @@ Ce projet propose une trame radio `.sub` pour Flipper Zero, permettant de décle
 - **Durée d'activation** : La trame permet de maintenir les feux piétons allumés et les feux pour véhicules au rouge pendant un temps suffisant pour permettre une traversée sécurisée, en fonction des paramètres définis par le système.
 - **Signal sonore** : En plus de l’aspect visuel, l'audio des feux émet un bruit caractéristique, souvent un bip ou un son cyclique, permettant aux piétons malvoyants de localiser la traversée sûre sans avoir à regarder les feux visuels.
 
-## Utilisation
+## Exemple d'utilisation
+
+### Tester le bon fonctionnement des feux piétons
+Les collectivités locales et les gestionnaires d'infrastructures peuvent utiliser cette trame pour tester le bon fonctionnement des feux piétons et vérifier si le signal sonore est activé correctement. En utilisant cette trame avec un Flipper Zero, les responsables peuvent facilement déclencher les feux piétons et vérifier leur activation, ainsi que le bon fonctionnement de l'audio.
+
+### Remonter les dysfonctionnements à la mairie
+En cas de dysfonctionnement détecté (par exemple, si les feux piétons ne s'allument pas ou si l'audio ne fonctionne pas), l'utilisateur peut signaler le problème à la mairie ou à l'autorité responsable. Cela peut être fait en envoyant un rapport avec les détails du test effectué et les observations relatives au dysfonctionnement des feux. Ce système de remontée d’informations peut aider à améliorer la maintenance des infrastructures et garantir une meilleure sécurité pour les piétons, en particulier pour les personnes malvoyantes.
+
+## Utilisation avec Flipper Zero
 
 1. Téléchargez la trame `.sub` et placez-la sur votre Flipper Zero.
 2. Activez le module radio sur votre Flipper Zero et lancez la lecture de la trame.
