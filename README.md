@@ -1,4 +1,4 @@
-# flipper-zero-feu-pieton
+# Flipper-zero-feu-pieton
 
 # Trame radio pour Flipper Zero : Feux piétons pour personnes malvoyantes
 
