@@ -11,6 +11,11 @@ Ce projet propose une trame radio `.sub` pour Flipper Zero, permettant de décle
 - **Durée d'activation** : La trame permet de maintenir les feux piétons allumés et les feux pour véhicules au rouge pendant un temps suffisant pour permettre une traversée sécurisée, en fonction des paramètres définis par le système.
 - **Signal sonore** : En plus de l’aspect visuel, l'audio des feux émet un bruit caractéristique, souvent un bip ou un son cyclique, permettant aux piétons malvoyants de localiser la traversée sûre sans avoir à regarder les feux visuels.
 
+## Exemple de feu piéton
+![Feu piéton NFS32-002](https://static.wikia.nocookie.net/dodokiki/images/4/4f/Feu_pi%C3%A9ton_NFS32-002.jpg/revision/latest?cb=20160918151713&path-prefix=fr)
+
+A noter qu'il existe différents modèles de différents constructeurs.
+
 ## Exemple d'utilisation
 
 ### Tester le bon fonctionnement des feux piétons
@@ -32,4 +37,5 @@ L'utilisation de cette trame est réservée à un usage légal et responsable. T
 ## Licence
 
 Ce projet est distribué sous la licence GPL-3.0.
+
 
