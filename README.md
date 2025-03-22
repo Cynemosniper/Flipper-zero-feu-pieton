@@ -1,6 +1,6 @@
 # flipper-zero-feu-pieton
 
-# Trame radio pour Flipper Zero : Feux piétons et véhicules
+# Trame radio pour Flipper Zero : Feux piétons pour personnes malvoyantes
 
 Ce projet propose une trame radio `.sub` pour Flipper Zero, permettant de déclencher les feux piétons pour les personnes malvoyantes en France. En plus de déclencher les feux piétons, cette trame permet également de faire passer les feux pour véhicules au rouge. Elle prend en charge l'audio des feux piétons, un signal sonore qui aide les personnes malvoyantes à savoir quand traverser en toute sécurité.
 
