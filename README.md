@@ -23,4 +23,5 @@ L'utilisation de cette trame est réservée à un usage légal et responsable. T
 
 ## Licence
 
-Ce projet est distribué sous la licence MIT.
+Ce projet est distribué sous la licence GPL-3.0.
+
